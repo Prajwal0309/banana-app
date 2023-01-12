@@ -1,4 +1,3 @@
-
 # THIS IS BANANA TRANSLATION APP😃 :
 
 This is the translation APP made  by using API 
